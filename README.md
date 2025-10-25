@@ -5,7 +5,7 @@ Hello world, this is my profile
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhabhaykumsr&label=Profile%20views&color=0e75b6&style=flat" alt="singhabhaykumsr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhabhaykumsr" alt="singhabhaykumsr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhabhaykumar" alt="singhabhaykumsr" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced Networking & Security**
 
